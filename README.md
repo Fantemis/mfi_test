@@ -24,7 +24,7 @@ cd mfi_test
 Next step is to move on the folder named: __back__ .
 
 ```
-cd back
+cd back/restApiMountainPeaks
 ```
 
 You'll now find a file named: __docker-compose.yml
