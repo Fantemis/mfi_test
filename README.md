@@ -68,5 +68,5 @@ You'll find 3 containers:
 
 You can now navigate on your applications
 - __localhost:3000__ for the react web app
-- __localhost:8000/mountain_peak for the django api (with default user web interface)
+- __localhost:8000/mountain_peak__ for the django api (with default user web interface)
 
