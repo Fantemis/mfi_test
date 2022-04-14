@@ -70,3 +70,8 @@ You can now navigate on your applications
 - __localhost:3000__ for the react web app
 - __localhost:8000/mountain_peak__ for the django api (with default user web interface)
 
+Note that you have differents api routes availables
+- CREATE: __localhost:8000/mountain_peak/create/__  : Allows you to create your own mountain peak
+- READ: __localhost:8000/mountain_peak__ : Its the default route, it will give you all mountain peaks
+- UPDATE: __localhost:8000/mountain_peak/update/<id>__: To update particular mountain peak
+- DELETE: __localhost:8000/mountain_peak/delete/<id>__: To delete particular mountain peak
