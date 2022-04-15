@@ -59,7 +59,6 @@ const App = ({
     onCloseModal();
   }
   useEffect(() => {
-      // FIXME What should we do if the token doesn't exist
       mountainPeaks();
   }, []);
 
