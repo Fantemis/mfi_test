@@ -46,6 +46,11 @@ Then
 docker-compose run web python manage.py migrate
 ```
 
+Then you have to create your db_volume with:
+```
+docker volume create db_volume
+```
+
 And then you can finish by:
 
 ```
